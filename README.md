@@ -150,10 +150,11 @@ The platform includes simulated authentication with two pre-configured accounts 
 ## 💡 8. Key Learning Outcomes
 
 1. **Vanilla Single-Page Applications:** Designed an efficient hash-based router (`window.location.hash`) handling dynamic parameters (`#product-detail?id=...`, `#catalog?category=...`).
-2. **State Management & Persistence:** Handled normalized relational data in JavaScript arrays and persisted state using browser `localStorage`.
-3. **Advanced CSS Grid & Flexbox:** Created complex layouts including mega-menus, side-by-side comparison tables, and analytics bar charts without third-party frameworks.
-4. **Data Visualization with Pure CSS:** Developed proportional bar charts and leaderboard indicators without heavy external graphing dependencies.
-5. **Robust Form Validation & XSS Prevention:** Implemented input sanitization (`escapeHtml`) and friendly error feedback.
+2.                                                                                                                                                
+3. **State Management & Persistence:** Handled normalized relational data in JavaScript arrays and persisted state using browser `localStorage`.
+4. **Advanced CSS Grid & Flexbox:** Created complex layouts including mega-menus, side-by-side comparison tables, and analytics bar charts without third-party frameworks.
+5. **Data Visualization with Pure CSS:** Developed proportional bar charts and leaderboard indicators without heavy external graphing dependencies.
+6. **Robust Form Validation & XSS Prevention:** Implemented input sanitization (`escapeHtml`) and friendly error feedback.
 
 ---
 
