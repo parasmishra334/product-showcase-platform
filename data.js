@@ -1254,3 +1254,4 @@ function resetAllShowCaseData() {
 
 // Initialize on load
 initShowCaseStorage();
+

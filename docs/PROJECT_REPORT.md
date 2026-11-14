@@ -94,3 +94,4 @@ Through this project, I gained substantial hands-on experience in:
 ## 6. Conclusion
 
 The **ShowCase** platform successfully fulfills all technical and visual requirements of task WD-SW-003. It delivers a fast, responsive, and feature-rich user experience that proves modern vanilla web technologies are more than capable of handling sophisticated, interactive web applications.
+
