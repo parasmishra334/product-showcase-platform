@@ -132,18 +132,18 @@ The platform includes simulated authentication with two pre-configured accounts 
 
 ## 📸 7. Application Screenshots Gallery
 
-| Screen | Description |
+| Screen View | Preview & Description |
 | :--- | :--- |
-| **Homepage** | Hero banner with floating badges, live telemetry metrics, categories strip, and featured gear |
-| **Mega-Menu** | Multi-column dropdown under "Categories" displaying subcategories with icons |
-| **Product Catalog** | Live search, price slider, brand & category filters, rating selector, and product cards |
-| **List View** | Horizontal catalog layout for high-density reading |
-| **Product Detail** | Multi-image carousel with thumbnails, technical specifications table, and verified reviews |
-| **Comparison Matrix** | Side-by-side comparison table highlighting Lowest Price and Highest Rating |
-| **Wishlist** | Saved items grid with live counter badges and empty-state handling |
-| **Interactive 360 Demo** | Real-time physical color and finish switcher with embedded video walkthrough |
-| **Admin Control Deck** | KPI metrics, product management table with modal CRUD, and pure CSS bar charts |
-| **Mobile View (375px)** | Clean, responsive single-column layout with sliding hamburger navigation drawer |
+| **01. Homepage** | ![Homepage](docs/screenshots/01_homepage.png)<br />*Hero banner with floating badges, live metrics, categories strip, and featured gear.* |
+| **02. Categories** | ![Categories](docs/screenshots/02_categories.png)<br />*Department cards with subcategory chips and quick filtering shortcuts.* |
+| **03. Product Catalog** | ![Product Catalog](docs/screenshots/03_catalog.png)<br />*Live search, price slider, brand & category filters, rating selector, and product cards.* |
+| **04. Product Detail** | ![Product Detail](docs/screenshots/04_product_detail.png)<br />*Multi-image carousel with thumbnails, technical specifications table, and verified reviews.* |
+| **05. Comparison Matrix** | ![Comparison Matrix](docs/screenshots/05_comparison.png)<br />*Side-by-side comparison table highlighting Lowest Price and Highest Rating.* |
+| **06. Wishlist** | ![Wishlist](docs/screenshots/06_wishlist.png)<br />*Saved items grid with live counter badges and empty-state handling.* |
+| **07. Interactive 360 Demo** | ![Interactive Demo](docs/screenshots/07_interactive_demo.png)<br />*Real-time physical color and finish switcher with embedded video walkthrough.* |
+| **08. Partner Brands** | ![Partner Brands](docs/screenshots/08_brands.png)<br />*Brand directory showcasing engineering origins, taglines, and direct catalog links.* |
+| **09. Admin Dashboard** | ![Admin Dashboard](docs/screenshots/09_admin_dashboard.png)<br />*KPI metrics, product management table with modal CRUD, and pure CSS bar charts.* |
+| **10. Responsive Mobile View** | ![Mobile View](docs/screenshots/10_mobile_view.png)<br />*Clean, responsive single-column layout on iPhone viewport (375px).* |
 
 ---
 

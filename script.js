@@ -67,6 +67,17 @@ function handleHashRouting() {
   // Parse Query Parameters
   const params = new URLSearchParams(queryString || "");
 
+  // Role shortcut for direct testing & automated screenshots
+  if (params.get("role") === "admin") {
+    const adminUser = getStoredUsers().find(u => u.role === "admin") || INITIAL_USERS[0];
+    setCurrentUser(adminUser);
+    renderUserNavWidget();
+  } else if (params.get("role") === "user") {
+    const stdUser = getStoredUsers().find(u => u.role === "user") || INITIAL_USERS[1];
+    setCurrentUser(stdUser);
+    renderUserNavWidget();
+  }
+
   // Update State
   AppState.activeSection = sectionId;
 

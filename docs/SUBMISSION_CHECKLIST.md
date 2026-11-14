@@ -28,17 +28,17 @@ Use this checklist to ensure all mandatory deliverables are complete before subm
 ### 2. Manual Action Items (To Complete by Hand)
 
 #### A. Take Application Screenshots (Minimum 9 captures)
-Capture high-resolution screenshots and save them into the `docs/screenshots/` folder:
-- [ ] **01_homepage.png** – Hero banner, category strip, featured products, and live metrics.
-- [ ] **02_mega_menu.png** – Categories dropdown displaying multi-column subcategories.
-- [ ] **03_catalog_filters.png** – Catalog page showing active search, category radios, price slider, and product grid.
-- [ ] **04_catalog_list_view.png** – Catalog switched to horizontal list layout.
-- [ ] **05_product_detail.png** – Detail page with image carousel, specifications table, and rating breakdown.
-- [ ] **06_comparison_matrix.png** – Side-by-side comparison highlighting Lowest Price and Highest Rating.
-- [ ] **07_wishlist.png** – Saved items view with counter badge.
-- [ ] **08_interactive_demo.png** – 360-style color customizer and embedded video player.
-- [ ] **09_admin_dashboard.png** – Admin control deck with KPI cards, product table, and CSS analytics charts.
-- [ ] **10_mobile_view.png** – Mobile view at 375px width showcasing hamburger navigation.
+High-resolution screenshots captured and saved in `docs/screenshots/`:
+- [x] **01_homepage.png** – Hero banner, category strip, featured products, and live metrics.
+- [x] **02_categories.png** – Department cards and subcategory navigation.
+- [x] **03_catalog.png** – Catalog page showing active search, category radios, price slider, and product grid.
+- [x] **04_product_detail.png** – Detail page with image carousel, specifications table, and rating breakdown.
+- [x] **05_comparison.png** – Side-by-side comparison highlighting Lowest Price and Highest Rating.
+- [x] **06_wishlist.png** – Saved items view with counter badge.
+- [x] **07_interactive_demo.png** – 360-style color customizer and embedded video player.
+- [x] **08_brands.png** – Partner brands directory.
+- [x] **09_admin_dashboard.png** – Admin control deck with KPI cards, product table, and CSS analytics charts.
+- [x] **10_mobile_view.png** – Mobile view at 375px width showcasing responsive layout.
 
 #### B. Record a 3 to 5 Minute Demo Walkthrough Video
 Record your screen (using OBS Studio, Loom, or Windows Xbox Game Bar `Win + G`) following this structure:
