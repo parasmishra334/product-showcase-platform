@@ -2593,6 +2593,14 @@ img {
 /* ==========================================================================
    17. RESPONSIVE MEDIA QUERIES (Desktop, Tablet, Mobile)
    ========================================================================== */
+@media (hover: none) and (pointer: coarse) {
+  /* Mobile touch target minimum 44px */
+  .btn, .icon-btn, .nav-link, .card-action-btn {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
 @media (max-width: 1200px) {
   .hero-container {
     grid-template-columns: 1fr;
